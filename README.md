@@ -1,6 +1,6 @@
 ## HTML and CSS Bootcamp
 ### Description:
-Welcome to the HTML and CSS Bootcamp! This intensive course is designed to equip you with the essential skills needed to create beautiful and responsive websites. Whether you're a beginner or looking to refresh your knowledge, this bootcamp covers everything from the basics of HTML to advanced CSS techniques.
+I attended the HTML and CSS Bootcamp, an intensive course that equipped me with the essential skills needed to create beautiful and responsive websites. This bootcamp covered everything from the basics of HTML to advanced CSS techniques, making it perfect for both beginners and those looking to refresh their knowledge.
 
 ### What I Learned:
 - **HTML Basics**: Structure and semantics, elements, and tags.
@@ -9,5 +9,3 @@ Welcome to the HTML and CSS Bootcamp! This intensive course is designed to equip
 - **Advanced CSS**: Flexbox, Grid, animations, and transitions.
 - **Practical Projects**: Hands-on projects to apply your new skills.
 
-### Get Started:
-Clone the repository and follow along with the course materials to become proficient in web development with HTML and CSS!
